@@ -1,4 +1,3 @@
-
 /* Ethernet header */
 struct ethheader {
     u_char  ether_dhost[6];    /* destination host address */
